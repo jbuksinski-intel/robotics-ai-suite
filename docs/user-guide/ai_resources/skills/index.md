@@ -23,4 +23,4 @@ These robotics-ai-suite skills are intended for the repository's robotics exampl
 
 | Skill | Description | Usage | Link |
 |-|-|-|-|
-| `wandering` | Review-first workflow for changes in components/wandering and tutorial packages. Use when editing Wandering launch files, docs, tests, Nav2 wiring, RTAB-Map, RealSense, or robot bring-up paths. | Deployment | [link](https://github.com/open-edge-platform/robotics-ai-suite/blob/main/.github/skills/wandering-sample/SKILL.md) |
+| `wandering` | Review-first workflow for changes in components/wandering and tutorial packages. Use when editing Wandering launch files, docs, tests, Nav2 wiring, RTAB-Map, RealSense, or robot bring-up paths. | Deployment | [link](https://github.com/open-edge-platform/robotics-ai-suite/blob/release-2026.3.0/.github/skills/wandering-sample/SKILL.md) |

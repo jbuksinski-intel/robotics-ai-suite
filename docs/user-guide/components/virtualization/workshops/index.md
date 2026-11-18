@@ -78,7 +78,7 @@ Fixes for device, display, proxy, storage and ROS problems in workshops.
 :::
 ::::
 
-The workshop definitions are in the repository next to each component's source, in `src/components/<component>/workshop/`. The shared parts, and the workshops without a component of their own, are in [`src/workshops/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/workshops).
+The workshop definitions are in the repository next to each component's source, in `src/components/<component>/workshop/`. The shared parts, and the workshops without a component of their own, are in [`src/workshops/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/workshops).
 
 :::{toctree}
 :hidden:

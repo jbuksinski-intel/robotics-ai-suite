@@ -130,4 +130,4 @@ The other actions work as on Jazzy. In testing, a local `monitor_stack.py` measu
 
 ## Source
 
-The definitions, package list and check script are in [`src/components/ros-kpi/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/ros-kpi/workshop). The pairing script is [`src/workshops/scripts/authorize-remote.sh`](https://github.com/open-edge-platform/robotics-ai-suite/blob/main/src/workshops/scripts/authorize-remote.sh).
+The definitions, package list and check script are in [`src/components/ros-kpi/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/ros-kpi/workshop). The pairing script is [`src/workshops/scripts/authorize-remote.sh`](https://github.com/open-edge-platform/robotics-ai-suite/blob/release-2026.3.0/src/workshops/scripts/authorize-remote.sh).

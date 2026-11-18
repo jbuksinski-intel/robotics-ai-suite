@@ -6,7 +6,7 @@
    <a class="icon_document" href="../../resources/release-notes/">
      Release Notes
   </a>
-   <a class="icon_document" href="https://github.com/open-edge-platform/robotics-ai-suite/blob/main/README.md">
+   <a class="icon_document" href="https://github.com/open-edge-platform/robotics-ai-suite/blob/release-2026.3.0/README.md">
      Readme
   </a>
 </div>

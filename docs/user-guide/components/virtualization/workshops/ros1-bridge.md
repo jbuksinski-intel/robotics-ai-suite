@@ -115,4 +115,4 @@ The check script uses these actions. To run them yourself, use two terminals, an
 
 ## Source
 
-The definitions, nodes and package list are in [`src/workshops/ros1-bridge/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/workshops/ros1-bridge). The check script is [`src/workshops/scripts/ros1-bridge-check.sh`](https://github.com/open-edge-platform/robotics-ai-suite/blob/main/src/workshops/scripts/ros1-bridge-check.sh).
+The definitions, nodes and package list are in [`src/workshops/ros1-bridge/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/workshops/ros1-bridge). The check script is [`src/workshops/scripts/ros1-bridge-check.sh`](https://github.com/open-edge-platform/robotics-ai-suite/blob/release-2026.3.0/src/workshops/scripts/ros1-bridge-check.sh).

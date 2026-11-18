@@ -65,7 +65,7 @@ actions:
 
 ## SDKs
 
-An SDK is a reusable part of a workshop: a directory with an `sdk.yaml` file that declares its plugs, and optional hooks that install software. The definitions list them as `project-<name>`, which Workshop resolves to `.workshop/<name>/`. In this repository those are symbolic links to [`src/workshops/sdks/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/workshops/sdks), so every workshop shares one copy.
+An SDK is a reusable part of a workshop: a directory with an `sdk.yaml` file that declares its plugs, and optional hooks that install software. The definitions list them as `project-<name>`, which Workshop resolves to `.workshop/<name>/`. In this repository those are symbolic links to [`src/workshops/sdks/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/workshops/sdks), so every workshop shares one copy.
 
 | SDK | Plugs | What it installs | Used by |
 |---|---|---|---|

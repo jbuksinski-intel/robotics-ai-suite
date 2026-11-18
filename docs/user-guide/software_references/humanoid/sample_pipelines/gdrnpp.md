@@ -50,7 +50,7 @@ Docker is recommended for model conversion and evaluation.
 
 ## Installation
 
-Get the [GDRNPP pipeline source](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/pipelines/gdrnpp-ov)
+Get the [GDRNPP pipeline source](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/pipelines/gdrnpp-ov)
 from the Robotics AI Suite repository. From the pipeline directory, initialize
 the pinned upstream submodule:
 

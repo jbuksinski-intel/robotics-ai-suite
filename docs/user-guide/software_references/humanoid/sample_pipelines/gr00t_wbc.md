@@ -17,7 +17,7 @@ For OpenVINO™, this project recommends installing from the archive file. Follo
 
 ## Installation
 
-This project extends the open-source GR00T-WholeBodyControl project and add OpenVINO™ acceleration and SONIC WBC pipeline optimizations for the Intel® Core™ Ultra Series 3 Processors-based platform. Please get the source code from the Open Edge Platform repo [here](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/pipelines/gr00t-wbc). Set up the environment with the following steps.
+This project extends the open-source GR00T-WholeBodyControl project and add OpenVINO™ acceleration and SONIC WBC pipeline optimizations for the Intel® Core™ Ultra Series 3 Processors-based platform. Please get the source code from the Open Edge Platform repo [here](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/pipelines/gr00t-wbc). Set up the environment with the following steps.
 
 ### 1. Initialize and patch the submodule
 ```bash

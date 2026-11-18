@@ -79,4 +79,4 @@ Ubuntu 22.04 has an older GPU compute runtime, and `sycl-ls` names the GPU `Inte
 
 ## Source
 
-The definitions, package list and check script are in [`src/components/collaborative-slam/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/collaborative-slam/workshop).
+The definitions, package list and check script are in [`src/components/collaborative-slam/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/collaborative-slam/workshop).

@@ -18,7 +18,7 @@ The second topic provides a reduced pointcloud containing only points labeled as
 ## Source Code
 
 The source code of this component can be found here:
-[Groundfloor](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/groundfloor)
+[Groundfloor](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/groundfloor)
 
 ## Prerequisites
 

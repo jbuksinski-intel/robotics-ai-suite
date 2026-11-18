@@ -93,4 +93,4 @@ Use `object-detection-humble` in every command. `benchmark` and `benchmark-ros` 
 
 ## Source
 
-The definitions, package list and patch are in [`src/components/object-detection/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/object-detection/workshop).
+The definitions, package list and patch are in [`src/components/object-detection/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/object-detection/workshop).
