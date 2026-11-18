@@ -330,7 +330,7 @@ WORK IN PROGRESS: Add a detailed explanation of code blocks, including usage, sy
 
 ### Acronyms
 
-- See the list of acronyms in https://docs.openedgeplatform.intel.com/dev/OEP-articles/acronyms_and_terms.html
+- See the list of acronyms in https://docs.openedgeplatform.intel.com/2026.3/OEP-articles/acronyms_and_terms.html
 - If you recognize an acronym in the body text or heading as one that requires a full form and is not a widely recognized term:
   - On the first use, spell it out with the acronym following in the brackets, in the style of "Vision-Language Model (VLM)".
   - On subsequent uses, use the short form. Exclusions from this rule.

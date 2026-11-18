@@ -11,7 +11,7 @@ Imitation learning is a machine learning approach where a model is trained to mi
 
 ## Source Code
 
-The source code of this component can be found here: [ACT-Sample](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/pipelines/act-sample)
+The source code of this component can be found here: [ACT-Sample](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/pipelines/act-sample)
 
 ## Prerequisites
 

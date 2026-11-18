@@ -66,7 +66,7 @@ flowchart TD
 ## Source Code
 
 The source repository for this component is hosted at:
-[FastMapping on GitHub](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/fast-mapping)
+[FastMapping on GitHub](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/fast-mapping)
 
 ---
 

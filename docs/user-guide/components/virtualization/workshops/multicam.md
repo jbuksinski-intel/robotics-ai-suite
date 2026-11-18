@@ -109,4 +109,4 @@ One issue remains:
 
 ## Source
 
-The definitions, package list and camera configuration are in [`src/components/multicam-demo/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/multicam-demo/workshop).
+The definitions, package list and camera configuration are in [`src/components/multicam-demo/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/multicam-demo/workshop).

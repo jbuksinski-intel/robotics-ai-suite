@@ -70,4 +70,4 @@ With them, `bag-replay-check` passes at 4.2 Hz. A rebuild removes the libraries;
 
 ## Source
 
-The definitions, package list, RViz configuration and check script are in [`src/components/groundfloor/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/groundfloor/workshop).
+The definitions, package list, RViz configuration and check script are in [`src/components/groundfloor/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/groundfloor/workshop).

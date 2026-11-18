@@ -74,4 +74,4 @@ With them, `bag-replay-check` passes in both modes. A rebuild removes the librar
 
 ## Source
 
-The definitions, package list and check script are in [`src/components/adbscan/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/adbscan/workshop).
+The definitions, package list and check script are in [`src/components/adbscan/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/adbscan/workshop).

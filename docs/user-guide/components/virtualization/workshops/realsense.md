@@ -83,4 +83,4 @@ Only one workshop can stream from a camera at a time. Stop the camera in one wor
 
 ## Source
 
-The definitions, package list and check script are in [`src/workshops/realsense/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/workshops/realsense).
+The definitions, package list and check script are in [`src/workshops/realsense/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/workshops/realsense).

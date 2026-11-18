@@ -50,4 +50,4 @@ Use `fast-mapping-humble` in every command. `bag-replay-headless` reports 165 ma
 
 ## Source
 
-The definitions and package list are in [`src/components/fast-mapping/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/fast-mapping/workshop).
+The definitions and package list are in [`src/components/fast-mapping/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/fast-mapping/workshop).

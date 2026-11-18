@@ -126,7 +126,7 @@ Find materials for hackathons.
 :::
 
 :::{grid-item-card} **Get Help or Contribute**
-:link: https://docs.openedgeplatform.intel.com/dev/OEP-articles/contribution-guide.html
+:link: https://docs.openedgeplatform.intel.com/2026.3/OEP-articles/contribution-guide.html
 :link-type: url
 :link-alt: Get Help or Contribute
 
@@ -151,6 +151,6 @@ PyTorch XPU <../ai_resources/developer_tools/pytorch-xpu>
 Intel® Geti <../ai_resources/developer_tools/geti>
 Intel® oneAPI <../ai_resources/developer_tools/oneapi>
 AI Skills <../ai_resources/skills/index>
-Get Help or Contribute <https://docs.openedgeplatform.intel.com/dev/OEP-articles/contribution-guide.html>
+Get Help or Contribute <https://docs.openedgeplatform.intel.com/2026.3/OEP-articles/contribution-guide.html>
 Hack-a-thon Resources <hackathon_resources.md>
 :::

@@ -13,7 +13,7 @@ VSLAM uses one or more cameras, with optional IMU inputs, to sense the surroundi
 
 ## Source Code
 
-The source code of this component can be found here: [ORB-SLAM3-Sample](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/pipelines/orb-slam3-sample)
+The source code of this component can be found here: [ORB-SLAM3-Sample](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/pipelines/orb-slam3-sample)
 
 ## Prerequisites
 

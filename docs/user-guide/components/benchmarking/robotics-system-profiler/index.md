@@ -31,4 +31,4 @@ examples
 
 This component is distributed as the `ros-${ROS_DISTRO}-benchmark-framework`
 apt package. The source code is maintained in the
-[ros-kpi](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/ros-kpi).
+[ros-kpi](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/ros-kpi).

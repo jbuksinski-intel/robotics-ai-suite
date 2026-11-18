@@ -66,4 +66,4 @@ To see the KPIs of the run in Grafana, monitor this workshop from the [Robotics 
 
 ## Source
 
-The definitions, package list and monitor are in [`src/components/wandering/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/main/src/components/wandering/workshop).
+The definitions, package list and monitor are in [`src/components/wandering/workshop/`](https://github.com/open-edge-platform/robotics-ai-suite/tree/release-2026.3.0/src/components/wandering/workshop).
